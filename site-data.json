@@ -2,25 +2,25 @@
   "business": {
     "name": "Juan Carpenter Inc",
     "shortName": "Juan Carpenter",
-    "tagline": "Precision Carpentry for Balch Springs Homes & Businesses",
+    "tagline": "Expert Custom Carpentry in Balch Springs",
     "niche": "Carpenter",
     "phone": "(469) 347-5443",
     "address": "Done",
-    "city": "Balch Springs, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
-    "ctaLabel": "Get a Free Estimate",
-    "headerCta": "Call Now"
+    "hours": "Mon-Fri 7am-5pm, Sat 8am-12pm",
+    "ctaLabel": "Request a Free Quote",
+    "headerCta": "Call Now",
+    "city": "Balch Springs, TX"
   },
   "seo": {
-    "title": "Juan Carpenter Inc | Expert Carpenter in Balch Springs, TX | Custom Woodwork",
-    "description": "Juan Carpenter Inc offers expert carpentry services in Balch Springs, TX. From custom cabinets to deck building, we deliver precision and quality. Call (469) 347-5443 for a free estimate."
+    "title": "Juan Carpenter Inc | Expert Carpenter in Balch Springs, TX | Custom Woodwork & Repairs",
+    "description": "Juan Carpenter Inc offers expert carpentry in Balch Springs, TX. Custom cabinets, trim, decks, and repairs. Call (469) 347-5443 for a free quote."
   },
   "home": {
     "hero": {
       "eyebrow": "Balch Springs' Trusted Carpenter",
-      "headline": "Custom Carpentry That Transforms Your Space",
-      "subheadline": "From bespoke cabinets to elegant decks, we craft woodwork that adds beauty and value to your home.",
-      "primaryCta": "Get a Free Quote",
+      "headline": "Custom Carpentry That Transforms Your Home",
+      "subheadline": "From custom shelving to complete kitchen remodels, we bring precision and passion to every project.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "View Our Work"
     },
     "stats": [
@@ -29,11 +29,11 @@
         "label": "Years Experience"
       },
       {
-        "value": "200+",
+        "value": "500+",
         "label": "Projects Completed"
       },
       {
-        "value": "100%",
+        "value": "98%",
         "label": "Client Satisfaction"
       },
       {
@@ -44,275 +44,279 @@
     "featureSections": [
       {
         "eyebrow": "Custom Cabinetry",
-        "title": "Built-in Cabinets That Maximize Storage & Style",
-        "body": "Our custom cabinets are designed to fit your space perfectly, offering both functionality and aesthetic appeal. We use premium hardwoods and finishes to create pieces that last a lifetime.",
+        "title": "Built-In Cabinets & Shelving",
+        "body": "Maximize your space with custom cabinets and shelving designed to fit your style and needs. We craft each piece with premium materials and meticulous attention to detail.",
         "bullets": [
-          "Tailored to your exact specifications",
-          "Wide range of wood species and finishes",
-          "Soft-close hardware and dovetail joints"
+          "Fully customized designs",
+          "Premium hardwood and plywood",
+          "Soft-close hinges and dovetail drawers",
+          "Free on-site consultation"
         ],
         "reverse": false,
-        "cardLabel": "Feature",
-        "cardTitle": "Free Design Consultation",
-        "cardBody": "Meet with our team to discuss your vision and get expert advice on materials and design."
+        "cardLabel": "Service Spotlight",
+        "cardTitle": "Kitchen & Bath Cabinets",
+        "cardBody": "Transform your kitchen or bath with custom cabinetry that combines beauty and durability."
       },
       {
-        "eyebrow": "Outdoor Living",
-        "title": "Decks & Patios Built for Texas Weather",
-        "body": "Enjoy your outdoor space year-round with a custom deck or pergola. We use weather-resistant materials and construction techniques that withstand the heat and humidity.",
+        "eyebrow": "Trim & Molding",
+        "title": "Crown Molding & Baseboards",
+        "body": "Add elegance to any room with expertly installed crown molding, baseboards, and wainscoting. Our precise cuts and seamless joints ensure a flawless finish.",
         "bullets": [
-          "Composite and pressure-treated lumber options",
-          "Built-in seating and planters available",
-          "Permitting and inspection handled for you"
+          "Custom profiles and materials",
+          "Perfect miters and coped joints",
+          "Paint-grade and stain-grade options",
+          "Interior and exterior trim"
         ],
         "reverse": true,
-        "cardLabel": "Feature",
-        "cardTitle": "Lifetime Workmanship Guarantee",
-        "cardBody": "We stand behind our work with a lifetime guarantee on all structural carpentry."
+        "cardLabel": "Popular Service",
+        "cardTitle": "Custom Wainscoting",
+        "cardBody": "Elevate your dining room or hallway with beautiful wainscoting tailored to your home."
       }
     ],
     "whyTitle": "Why Choose Juan Carpenter Inc?",
     "whyChooseUs": [
       {
-        "title": "Locally Owned & Operated",
-        "description": "We're proud to serve Balch Springs and surrounding communities. Our reputation is built on word-of-mouth referrals."
+        "title": "Local Expertise",
+        "description": "We've served Balch Springs for over 15 years, understanding the unique needs of local homes."
       },
       {
-        "title": "Quality Materials Only",
-        "description": "We source premium hardwoods, composites, and hardware to ensure your project stands the test of time."
+        "title": "Premium Craftsmanship",
+        "description": "Every cut, joint, and finish is executed with precision for lasting beauty."
       },
       {
         "title": "Transparent Pricing",
-        "description": "You'll receive a detailed written estimate with no hidden fees. We believe in honest communication."
+        "description": "Detailed quotes with no hidden fees — you'll know exactly what to expect."
       },
       {
-        "title": "Clean & Respectful Service",
-        "description": "We treat your home with care, covering floors and cleaning up daily. Our team is professional and courteous."
+        "title": "Reliable & Punctual",
+        "description": "We respect your time, arriving on schedule and completing projects on deadline."
       }
     ],
     "testimonials": [
       {
-        "quote": "Juan and his team built custom bookshelves for our living room. The craftsmanship is incredible, and they finished ahead of schedule.",
+        "quote": "Juan transformed our outdated kitchen with beautiful custom cabinets. The quality is outstanding, and the team was professional and clean throughout.",
         "author": "Maria G.",
-        "role": "Balch Springs homeowner"
+        "role": "Balch Springs Homeowner"
       },
       {
-        "quote": "We hired Juan Carpenter for a deck replacement. The quality is outstanding, and they cleaned up every nail and wood chip. Highly recommend!",
-        "author": "Tom R.",
-        "role": "Balch Springs resident"
+        "quote": "We hired Juan for crown molding throughout our living room. The attention to detail is incredible — perfectly seamless corners.",
+        "author": "Robert K.",
+        "role": "Dallas Resident"
       },
       {
-        "quote": "They installed new kitchen cabinets and transformed the whole feel of our home. Professional, punctual, and reasonably priced.",
-        "author": "Lisa K.",
-        "role": "Balch Springs homeowner"
+        "quote": "Our custom built-in bookshelf is the centerpiece of the house. Juan listened to our ideas and delivered beyond expectations.",
+        "author": "Lisa M.",
+        "role": "Balch Springs Homeowner"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
       "subheadline": "Contact us today for a free, no-obligation estimate.",
       "primaryCta": "Call (469) 347-5443",
-      "secondaryCta": "Request a Quote Online"
+      "secondaryCta": "Get a Quote Online"
     }
   },
   "servicesPage": {
-    "intro": "From concept to completion, Juan Carpenter Inc provides expert carpentry services in Balch Springs, TX. Whether you need custom furniture, kitchen remodeling, or outdoor structures, we bring precision and passion to every project."
+    "intro": "From custom cabinets to deck building, our carpentry services cover every aspect of woodwork for your home or business. Each project is handled with skill, care, and a commitment to excellence."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Custom Cabinetry",
-      "shortDescription": "Design and build cabinets that fit your space and style perfectly.",
-      "longDescription": "Our custom cabinetry service covers everything from kitchen and bathroom cabinets to built-in entertainment centers and home offices. We work with you to select materials, finishes, and hardware that match your vision and budget.",
+      "title": "Custom Cabinetry & Shelving",
+      "shortDescription": "Bespoke cabinets and shelves tailored to your space and style.",
+      "longDescription": "Our custom cabinetry service delivers functional art for your home. We design and build kitchen cabinets, bathroom vanities, entertainment centers, and built-in bookshelves that maximize storage and enhance aesthetics. Using premium hardwoods and modern hardware, we ensure every piece is durable and beautiful.",
       "benefits": [
-        "Maximized storage with custom layouts",
-        "Premium materials like solid oak, maple, and cherry",
-        "Seamless integration with existing decor",
+        "Maximized storage and organization",
+        "Custom design to match your décor",
+        "Long-lasting quality with soft-close features",
         "Increased home value"
       ],
       "process": [
         {
           "title": "Consultation & Design",
-          "description": "We meet on-site to measure, discuss your needs, and create a 3D design."
+          "description": "We visit your home, take measurements, and discuss your vision to create a custom plan."
         },
         {
-          "title": "Material Selection",
-          "description": "Choose from a wide range of woods, stains, and hardware options."
+          "title": "Crafting & Assembly",
+          "description": "Our skilled team builds your cabinets in our workshop using top-grade materials and joinery."
         },
         {
           "title": "Installation & Finish",
-          "description": "Our team builds and installs with precision, ensuring a perfect fit and finish."
+          "description": "We install with precision, ensuring perfect fit and alignment, then apply final touches."
         }
       ],
       "faqs": [
         {
           "question": "How long does a custom cabinet project take?",
-          "answer": "Typical projects take 4-6 weeks from design to installation, depending on complexity."
+          "answer": "Most projects take 2-4 weeks from design to installation, depending on complexity."
         },
         {
-          "question": "Can you match existing cabinets?",
-          "answer": "Yes, we can match stains and styles to blend with your current cabinetry."
+          "question": "What materials do you use?",
+          "answer": "We use solid hardwoods like oak, maple, and cherry, as well as high-quality plywood for durability."
         }
       ],
-      "slug": "custom-cabinetry"
+      "slug": "custom-cabinetry-shelving"
     },
     {
       "icon": "02",
-      "title": "Deck & Patio Building",
-      "shortDescription": "Create an outdoor oasis with a custom deck or pergola.",
-      "longDescription": "We design and build decks, patios, pergolas, and gazebos that enhance your outdoor living space. Using durable materials like cedar, composite, and pressure-treated lumber, we ensure your structure withstands the elements.",
+      "title": "Trim, Molding & Wainscoting",
+      "shortDescription": "Add elegance with precision trim work.",
+      "longDescription": "Enhance the character of your home with expert trim and molding installation. We specialize in crown molding, baseboards, chair rails, and wainscoting that transform plain rooms into refined spaces. Our precise miter cuts and seamless joints create a polished, professional look.",
       "benefits": [
-        "Custom designs to fit any yard size",
-        "Low-maintenance composite options available",
-        "Built-in seating, planters, and lighting",
-        "Adds significant outdoor living space"
+        "Elevates room aesthetics",
+        "Conceals gaps and imperfections",
+        "Custom profiles available",
+        "Durable, long-lasting finish"
       ],
       "process": [
         {
-          "title": "Site Assessment",
-          "description": "We evaluate your yard, check for permits, and discuss design ideas."
+          "title": "Design Selection",
+          "description": "We help you choose molding profiles and layouts that complement your home's style."
         },
         {
-          "title": "Design & Material Choice",
-          "description": "We create a detailed plan and help you select materials and features."
+          "title": "Precision Cutting",
+          "description": "Using advanced tools, we cut each piece to exact angles for flawless corners."
         },
         {
-          "title": "Construction & Cleanup",
-          "description": "Our crew builds efficiently and leaves your property spotless."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Do you handle permits?",
-          "answer": "Yes, we obtain all necessary permits for your deck or patio project."
-        },
-        {
-          "question": "What is the best material for Texas weather?",
-          "answer": "Composite decking is highly recommended for its durability and low maintenance in our climate."
-        }
-      ],
-      "slug": "deck-patio-building"
-    },
-    {
-      "icon": "03",
-      "title": "Trim & Crown Molding",
-      "shortDescription": "Add elegance and character with professional trim work.",
-      "longDescription": "Our trim and molding services include baseboards, crown molding, wainscoting, and custom millwork. We ensure precise miters and seamless joints that elevate the look of any room.",
-      "benefits": [
-        "Enhances architectural detail",
-        "Covers gaps and imperfections",
-        "Increases property value",
-        "Custom profiles and sizes available"
-      ],
-      "process": [
-        {
-          "title": "Measurement & Design",
-          "description": "We measure your rooms and recommend molding styles that complement your home."
-        },
-        {
-          "title": "Material Preparation",
-          "description": "We select and pre-cut materials for a smooth installation."
-        },
-        {
-          "title": "Installation & Caulking",
-          "description": "We install with precision, fill gaps, and touch up paint for a flawless finish."
+          "title": "Installation & Touch-Up",
+          "description": "We install securely, fill nail holes, and caulk seams for a seamless look."
         }
       ],
       "faqs": [
         {
           "question": "Can you match existing trim?",
-          "answer": "Yes, we can replicate existing profiles to ensure consistency throughout your home."
+          "description": "Yes, we can replicate most trim styles and profiles to blend with your current moldings."
         },
         {
-          "question": "How much does crown molding cost?",
-          "answer": "Cost varies by material and complexity. We provide a free estimate after measuring."
+          "question": "Do you paint the trim?",
+          "answer": "We install trim ready for paint or stain. Painting can be arranged separately."
         }
       ],
-      "slug": "trim-crown-molding"
+      "slug": "trim-molding-wainscoting"
     },
     {
-      "icon": "04",
-      "title": "Furniture & Built-ins",
-      "shortDescription": "Custom furniture and built-in shelving for any room.",
-      "longDescription": "From custom dining tables to built-in bookcases and window seats, we create unique pieces that fit your space and style. Our furniture is built with joinery techniques that ensure durability and beauty.",
+      "icon": "03",
+      "title": "Deck & Patio Construction",
+      "shortDescription": "Beautiful outdoor living spaces built to last.",
+      "longDescription": "Create the perfect outdoor retreat with a custom deck or patio cover. We design and build decks using pressure-treated lumber, composite materials, or cedar. From simple platforms to multi-level designs with built-in seating, we ensure structural integrity and aesthetic appeal.",
       "benefits": [
-        "One-of-a-kind pieces tailored to you",
-        "Maximizes awkward spaces",
-        "Higher quality than store-bought furniture",
-        "Choice of wood, finish, and design"
+        "Expands living space",
+        "Durable, weather-resistant materials",
+        "Custom layouts and features",
+        "Adds property value"
       ],
       "process": [
         {
-          "title": "Design Consultation",
-          "description": "We discuss your needs, style preferences, and take measurements."
+          "title": "Site Evaluation & Design",
+          "description": "We assess your yard, discuss your needs, and create a deck plan that fits."
         },
         {
-          "title": "Building & Finishing",
-          "description": "We craft your piece in our workshop using traditional joinery and premium finishes."
+          "title": "Permitting & Prep",
+          "description": "We handle necessary permits and prepare the site with proper footings."
         },
         {
-          "title": "Delivery & Installation",
-          "description": "We deliver and install your furniture, ensuring it fits perfectly."
+          "title": "Construction & Finish",
+          "description": "Our team builds the deck with precise framing, secure decking, and a protective finish."
         }
       ],
       "faqs": [
         {
-          "question": "Can you build furniture from a photo?",
-          "answer": "Absolutely! We can replicate or adapt designs from photos or sketches."
+          "question": "What decking materials do you recommend?",
+          "answer": "We recommend composite for low maintenance, or cedar for natural beauty. Both are durable."
         },
         {
-          "question": "What woods do you recommend for furniture?",
-          "answer": "Hardwoods like oak, walnut, and maple are ideal for durability and beauty."
+          "question": "Do you build railings and stairs?",
+          "answer": "Yes, we include code-compliant railings and stairs in all deck projects."
         }
       ],
-      "slug": "furniture-built-ins"
+      "slug": "deck-patio-construction"
+    },
+    {
+      "icon": "04",
+      "title": "Repairs & Renovations",
+      "shortDescription": "Fix, restore, and refresh your wood structures.",
+      "longDescription": "Whether it's a rotting window frame, damaged baseboard, or an entire room renovation, our repair and renovation service breathes new life into your home. We handle everything from minor fixes to major structural repairs with the same attention to detail.",
+      "benefits": [
+        "Restores safety and function",
+        "Improves appearance",
+        "Cost-effective solutions",
+        "Seamless integration with existing finishes"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Estimate",
+          "description": "We inspect the damage and provide a detailed repair plan and quote."
+        },
+        {
+          "title": "Material Sourcing",
+          "description": "We find matching materials to blend repairs with your existing woodwork."
+        },
+        {
+          "title": "Repair & Finish",
+          "description": "We perform the repair, sand, and finish to match the surrounding area perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you repair water-damaged wood?",
+          "answer": "Yes, we can replace rotted sections and treat the area to prevent future damage."
+        },
+        {
+          "question": "Do you offer emergency repairs?",
+          "answer": "We prioritize urgent repairs and can often schedule within 24 hours."
+        }
+      ],
+      "slug": "repairs-renovations"
     }
   ],
   "about": {
     "headline": "Crafting Quality Since 2008",
-    "mission": "To provide Balch Springs with exceptional carpentry that combines traditional craftsmanship with modern techniques.",
+    "mission": "To provide Balch Springs and surrounding areas with exceptional carpentry that combines traditional craftsmanship with modern techniques, ensuring every project exceeds expectations.",
     "story": [
-      "Juan Carpenter Inc started as a small operation with a single truck and a passion for woodworking. Over the years, we've grown into a trusted name in Balch Springs, known for our attention to detail and commitment to customer satisfaction.",
-      "Every project, whether a simple repair or a full custom build, receives the same dedication. We believe in using the best materials, respecting deadlines, and leaving every space better than we found it."
+      "Juan Carpenter Inc was founded in 2008 by Juan Martinez, a master carpenter with a passion for woodworking. Starting with small repair jobs, Juan built a reputation for reliability and precision that quickly spread through Balch Springs. Over the years, the company grew from a one-man operation to a full-service carpentry team, taking on complex custom builds and renovations.",
+      "Today, we continue Juan's legacy of quality. Our team of skilled craftsmen shares a commitment to excellence, using time-honored techniques and the finest materials. We treat every home like our own, ensuring that each project reflects our dedication to beauty, function, and durability."
     ],
     "highlight": {
-      "stat": "15+",
-      "label": "Years of Excellence"
+      "stat": "500+",
+      "label": "Homes Improved"
     },
     "coreValues": [
       {
         "title": "Craftsmanship",
-        "description": "We take pride in precise cuts, strong joints, and beautiful finishes."
+        "description": "We take pride in our work, delivering flawless results through skill and attention to detail."
       },
       {
         "title": "Integrity",
-        "description": "Honest pricing, clear communication, and standing behind our work."
+        "description": "Honest pricing, transparent communication, and keeping our promises are the foundation of our business."
       },
       {
         "title": "Customer Focus",
-        "description": "Your vision drives every decision we make."
+        "description": "Your vision guides every project. We listen, collaborate, and deliver exactly what you want."
       },
       {
         "title": "Community",
-        "description": "We support Balch Springs and its residents by providing reliable, local service."
+        "description": "As a local business, we're invested in making Balch Springs a better place to live, one project at a time."
       }
     ]
   },
   "contact": {
-    "headline": "Let's Build Something Together",
-    "subheadline": "Contact us for a free estimate and consultation.",
+    "headline": "Let's Build Something Beautiful Together",
+    "subheadline": "Contact us for a free consultation and estimate.",
     "primaryCta": "Call (469) 347-5443",
     "formCta": "Send Message",
     "serviceAreas": [
       "Balch Springs",
-      "Mesquite",
       "Dallas",
+      "Mesquite",
       "Garland",
       "Rowlett",
-      "Rockwall"
+      "Rockwall",
+      "Forney",
+      "Sunnyvale"
     ]
   },
   "social_proof": {
-    "rating": 1,
+    "rating": "",
     "reviews": null
   },
   "meta": {
